@@ -1,0 +1,1 @@
+# Django-static-media-settings
